@@ -1,0 +1,31 @@
+[
+    {
+        "author": "樊珣",
+        "dynasty": "唐",
+        "type": "诗",
+        "rhythmic": "",
+        "title": "忆长安 十月",
+        "preface": "",
+        "paragraphs": [
+            "忆长安，十月时，华清士马相驰。",
+            "万国来朝汉阙，五陵共猎秦祠。",
+            "昼夜歌钟不歇，山河四塞京师。"
+        ],
+        "notes": "",
+        "id": "f6c1c1093b8b37c007b892b2c0b02d10"
+    },
+    {
+        "author": "樊珣",
+        "dynasty": "唐",
+        "type": "诗",
+        "rhythmic": "",
+        "title": "状江南 仲夏",
+        "preface": "",
+        "paragraphs": [
+            "江南仲夏天，时雨下如川。",
+            "卢橘垂金弹，甘蕉吐白莲。"
+        ],
+        "notes": "",
+        "id": "694fd2df7a0c2dcbc3a95960d6986ae4"
+    }
+]
