@@ -1,0 +1,32 @@
+[
+    {
+        "author": "王曼之",
+        "dynasty": "宋",
+        "type": "诗",
+        "rhythmic": "",
+        "title": "西窗",
+        "preface": "",
+        "paragraphs": [
+            "西窗枕寒池，池边老松树。",
+            "渴猿下偷泉，见影忽惊去。"
+        ],
+        "notes": "",
+        "id": "d13a568fb2b58a0142fa5e7ae3c6f08e"
+    },
+    {
+        "author": "王曼之",
+        "dynasty": "宋",
+        "type": "诗",
+        "rhythmic": "",
+        "title": "春日郊行",
+        "preface": "",
+        "paragraphs": [
+            "出门逢柳色，忽过野桥西。",
+            "坐石看潮长，隔花闻鸟啼。",
+            "地随芳草尽，树与夕阳齐。",
+            "不是桃源路，行人亦自迷。"
+        ],
+        "notes": "",
+        "id": "d663e18bfa0836b8f5e02cc50d46ffbc"
+    }
+]

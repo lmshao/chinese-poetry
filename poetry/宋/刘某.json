@@ -1,0 +1,28 @@
+[
+    {
+        "author": "刘某",
+        "dynasty": "宋",
+        "type": "诗",
+        "rhythmic": "",
+        "title": "句  其一",
+        "preface": "",
+        "paragraphs": [
+            "输税地全无菽麦，入城人半是渔樵。"
+        ],
+        "notes": "",
+        "id": "cfa03c9cd958e0b6ca1622acf8ebee68"
+    },
+    {
+        "author": "刘某",
+        "dynasty": "宋",
+        "type": "诗",
+        "rhythmic": "",
+        "title": "句  其二",
+        "preface": "",
+        "paragraphs": [
+            "度暑田夫作竹衫。"
+        ],
+        "notes": "",
+        "id": "c093a41cdf8ca1c2fb90cd6e1bbab6f6"
+    }
+]

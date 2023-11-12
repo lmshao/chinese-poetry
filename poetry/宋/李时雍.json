@@ -1,0 +1,30 @@
+[
+    {
+        "author": "李时雍",
+        "dynasty": "宋",
+        "type": "诗",
+        "rhythmic": "",
+        "title": "题巨然平湖舟泊图",
+        "preface": "",
+        "paragraphs": [
+            "遥岑矗矗水潺潺，茆屋松风昼掩关。",
+            "落日钟声来远寺，行人初向石桥还。"
+        ],
+        "notes": "",
+        "id": "f7e3d70c1de7a607628c9e8b40ae1583"
+    },
+    {
+        "author": "李时雍",
+        "dynasty": "宋",
+        "type": "诗",
+        "rhythmic": "",
+        "title": "题赵千里卧雪图",
+        "preface": "",
+        "paragraphs": [
+            "疏林茅屋掩闲云，瀑雪悬崖霁色新。",
+            "好是杜陵诗兴逸，蹇驴随意乐行春。"
+        ],
+        "notes": "",
+        "id": "4e7409f89e96c7b19592b821c4dba2ba"
+    }
+]
