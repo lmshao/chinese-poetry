@@ -84,5 +84,33 @@
         ],
         "notes": "",
         "id": "443d0fc1002efff5e2d8d163031a2372"
+    },
+    {
+        "author": "滕白",
+        "dynasty": "唐",
+        "type": "诗",
+        "rhythmic": "",
+        "title": "题文川村居",
+        "preface": "",
+        "paragraphs": [
+            "种茶岩接红霞坞，灌稻泉生白石根。",
+            "皤腹老翁眉似雪，海棠花下戏儿孙。"
+        ],
+        "notes": "",
+        "id": "f34ddc7b8a21a2bc0ba31f84b83cdcdf"
+    },
+    {
+        "author": "滕白",
+        "dynasty": "唐",
+        "type": "诗",
+        "rhythmic": "",
+        "title": "燕",
+        "preface": "",
+        "paragraphs": [
+            "短羽新来别海阳，真珠高卷语雕梁。",
+            "佳人未必全听尔，正把金针绣凤凰。"
+        ],
+        "notes": "",
+        "id": "db9faed752004947ca827cbe1b5d79ef"
     }
 ]

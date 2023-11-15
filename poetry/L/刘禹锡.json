@@ -14880,5 +14880,31 @@
         ],
         "notes": "",
         "id": "0a264d3c29a6bf8f26ef066c565c8d96"
+    },
+    {
+        "author": "刘禹锡",
+        "dynasty": "宋",
+        "type": "诗",
+        "rhythmic": "",
+        "title": "句  其一",
+        "preface": "",
+        "paragraphs": [
+            "风定花落深一寸，日高啼鸟度千声。"
+        ],
+        "notes": "",
+        "id": "716cee2c00ae3b39442e358ec6f59d73"
+    },
+    {
+        "author": "刘禹锡",
+        "dynasty": "宋",
+        "type": "诗",
+        "rhythmic": "",
+        "title": "句  其二",
+        "preface": "",
+        "paragraphs": [
+            "晓鶑林外千声啭，芳草阶前一尺长。"
+        ],
+        "notes": "",
+        "id": "d3ade98fbe5c4e3a50f653ce63340a62"
     }
 ]

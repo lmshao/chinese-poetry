@@ -16,5 +16,49 @@
         ],
         "notes": "",
         "id": "184dd157ce3f564105c3ff3067f0ab57"
+    },
+    {
+        "author": "李思聪",
+        "dynasty": "宋",
+        "type": "诗",
+        "rhythmic": "",
+        "title": "金城山",
+        "preface": "",
+        "paragraphs": [
+            "杏花洞天路崎岖，曾见千年石斛奴。",
+            "试问金城山里事，只言仙境似蓬壶。"
+        ],
+        "notes": "",
+        "id": "87d3790b067b5b8a91437e7cee1e2b34"
+    },
+    {
+        "author": "李思聪",
+        "dynasty": "宋",
+        "type": "诗",
+        "rhythmic": "",
+        "title": "云山",
+        "preface": "",
+        "paragraphs": [
+            "水石光涵千里色，川林阴翠湿芝兰。",
+            "杏花坞接投龙洞，瀑溅苍崖鹤骨寒。"
+        ],
+        "notes": "",
+        "id": "20ea30620d38ec1a131a1cd767eeac4a"
+    },
+    {
+        "author": "李思聪",
+        "dynasty": "宋",
+        "type": "诗",
+        "rhythmic": "",
+        "title": "朱陵洞",
+        "preface": "",
+        "paragraphs": [
+            "灵峰七十二巑岏，紫盖芙蓉杳霭间。",
+            "影浸潇湘盘地脉，秀擎翼轸插天关。",
+            "真君玉册光千古，赤帝璇宫镇八蛮。",
+            "好比吾皇大椿算，万年松在最高山。"
+        ],
+        "notes": "",
+        "id": "746718b3a4b2bc7c16dd4d60894efe7f"
     }
 ]
