@@ -4,7 +4,7 @@
         "dynasty": "宋",
         "type": "诗",
         "rhythmic": "",
-        "title": "平绿轩  其一",
+        "title": "平绿轩",
         "preface": "",
         "paragraphs": [
             "尘嚣胸次尝苦隘，谁谓一隅天地宽。",
@@ -14,19 +14,5 @@
         ],
         "notes": "",
         "id": "e215d6cfbfa380bda344570df4bfc26f"
-    },
-    {
-        "author": "王用亨",
-        "dynasty": "宋",
-        "type": "诗",
-        "rhythmic": "",
-        "title": "平绿轩  其二",
-        "preface": "",
-        "paragraphs": [
-            "禅窗虚敞瞰西南，野色溪光接画簷。",
-            "云去碧天无间断，一眉依约见山尖。"
-        ],
-        "notes": "",
-        "id": "49fcdc8250fb2bbc64eb4b34475ce19d"
     }
 ]

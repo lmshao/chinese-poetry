@@ -412,9 +412,9 @@
         "preface": "",
         "paragraphs": [
             "六钟翕协六变成，八佾徜徉八风生。",
-            "乐九[韶]兮[人神]感，美七德兮天地清。"
+            "乐九韶兮人神感，美七德兮天地清。"
         ],
-        "notes": "",
+        "notes": "又名《唐享太庙乐章》",
         "id": "353d6ed864fd7ec83a196387af1178c4"
     },
     {
@@ -743,20 +743,6 @@
         ],
         "notes": "",
         "id": "d8d74ac1cb8128b7fb1a79ef85ceff9c"
-    },
-    {
-        "author": "张说",
-        "dynasty": "唐",
-        "type": "诗",
-        "rhythmic": "",
-        "title": "唐享太庙乐章 舒和",
-        "preface": "",
-        "paragraphs": [
-            "六钟翕协六变成，八佾徜徉八风生。",
-            "乐九韶兮人神感，美七德兮天地清。"
-        ],
-        "notes": "",
-        "id": "353d6ed864fd7ec83a196387af1178c4"
     },
     {
         "author": "张说",
@@ -4072,22 +4058,6 @@
         "dynasty": "唐",
         "type": "诗",
         "rhythmic": "",
-        "title": "舞马千秋万岁乐府词三首 一",
-        "preface": "",
-        "paragraphs": [
-            "金天诞圣千秋节，玉醴还分万寿觞。",
-            "试听紫骝歌乐府，何如𫘧骥舞华冈。",
-            "连𬸣势出鱼龙变，躞蹀骄生鸟兽行。",
-            "岁岁相传指树日，翩翩来伴庆云翔。"
-        ],
-        "notes": "",
-        "id": "25c76deceab4599ed893e7212cfbbb53"
-    },
-    {
-        "author": "张说",
-        "dynasty": "唐",
-        "type": "诗",
-        "rhythmic": "",
         "title": "舞马千秋万岁乐府词三首 二",
         "preface": "",
         "paragraphs": [
@@ -4098,22 +4068,6 @@
         ],
         "notes": "",
         "id": "cc20cf1cb1063243afbc5712bc938185"
-    },
-    {
-        "author": "张说",
-        "dynasty": "唐",
-        "type": "诗",
-        "rhythmic": "",
-        "title": "舞马千秋万岁乐府词三首 三",
-        "preface": "",
-        "paragraphs": [
-            "远听明君爱逸才，玉鞭金翅引龙媒。",
-            "不因兹白人间有，定是飞黄天上来。",
-            "影弄日华相照耀，喷含云色且裴徊。",
-            "莫言阙下桃花舞，别有河中兰叶开。"
-        ],
-        "notes": "",
-        "id": "4ed55a0a9ac042bd85964c4f6aba8b7f"
     },
     {
         "author": "张说",
@@ -5849,20 +5803,6 @@
         "dynasty": "唐",
         "type": "诗",
         "rhythmic": "",
-        "title": "舞马词六首 一",
-        "preface": "",
-        "paragraphs": [
-            "万玉朝宗凤扆，千金率领龙媒。",
-            "眄鼓凝骄躞蹀，听歌弄影徘徊。"
-        ],
-        "notes": "",
-        "id": "15515e97e4ee17e82ee536de749e8481"
-    },
-    {
-        "author": "张说",
-        "dynasty": "唐",
-        "type": "诗",
-        "rhythmic": "",
         "title": "舞马词六首 二",
         "preface": "",
         "paragraphs": [
@@ -5871,62 +5811,6 @@
         ],
         "notes": "",
         "id": "d2f06f72feaa4b35349192f6d8349c96"
-    },
-    {
-        "author": "张说",
-        "dynasty": "唐",
-        "type": "诗",
-        "rhythmic": "",
-        "title": "舞马词六首 三",
-        "preface": "",
-        "paragraphs": [
-            "彩旄八佾成行，时龙五色因方。",
-            "屈膝衔杯赴节，倾心献寿无疆。"
-        ],
-        "notes": "",
-        "id": "578e0e6ae0a4dbcb122684025449e240"
-    },
-    {
-        "author": "张说",
-        "dynasty": "唐",
-        "type": "诗",
-        "rhythmic": "",
-        "title": "舞马词六首 四",
-        "preface": "",
-        "paragraphs": [
-            "帝皂龙驹沛艾，星兰骥子权奇。",
-            "腾倚骧洋应节，繁骄接迹不移。"
-        ],
-        "notes": "",
-        "id": "6acd036e26f88c07653183a2b250c0d0"
-    },
-    {
-        "author": "张说",
-        "dynasty": "唐",
-        "type": "诗",
-        "rhythmic": "",
-        "title": "舞马词六首 五",
-        "preface": "",
-        "paragraphs": [
-            "二圣先天合德，群灵率土可封。",
-            "击石骖驔紫燕，𪭢金顾步苍龙。"
-        ],
-        "notes": "",
-        "id": "4444326dfdefc912d7212a35fa2d7f6a"
-    },
-    {
-        "author": "张说",
-        "dynasty": "唐",
-        "type": "诗",
-        "rhythmic": "",
-        "title": "舞马词六首 六",
-        "preface": "",
-        "paragraphs": [
-            "圣君出震应箓，神马浮河献图。",
-            "足踏天庭鼓舞，心将帝乐踌蹰。"
-        ],
-        "notes": "",
-        "id": "5cae6ce60918c172e1821d2a5c32c501"
     },
     {
         "author": "张说",
@@ -5983,104 +5867,6 @@
         ],
         "notes": "",
         "id": "6fdc9ff10e497d3e3d4394b095f9b829"
-    },
-    {
-        "author": "张说",
-        "dynasty": "唐",
-        "type": "诗",
-        "rhythmic": "",
-        "title": "十五日夜御前口号踏歌词二首 一",
-        "preface": "",
-        "paragraphs": [
-            "花蕚楼前雨露新，长安城里太平人。",
-            "龙衔火树千重焰，鸡踏莲花万岁春。"
-        ],
-        "notes": "",
-        "id": "0bbfda19ab618a7a5976d2f59d729629"
-    },
-    {
-        "author": "张说",
-        "dynasty": "唐",
-        "type": "诗",
-        "rhythmic": "",
-        "title": "十五日夜御前口号踏歌词二首 二",
-        "preface": "",
-        "paragraphs": [
-            "帝宫三五戏春台，行雨流风莫妬来。",
-            "西域灯轮千影合，东华金阙万重开。"
-        ],
-        "notes": "",
-        "id": "b8b73ef6d214c013012429beeadf619a"
-    },
-    {
-        "author": "张说",
-        "dynasty": "唐",
-        "type": "诗",
-        "rhythmic": "",
-        "title": "苏摩遮五首 一",
-        "preface": "",
-        "paragraphs": [
-            "摩遮本出海西胡，琉璃宝服紫髯胡。",
-            "闻道皇恩遍宇宙，来将歌舞助欢娱。"
-        ],
-        "notes": "",
-        "id": "e6ec67efc44ca6d44c44cc28b0d314e5"
-    },
-    {
-        "author": "张说",
-        "dynasty": "唐",
-        "type": "诗",
-        "rhythmic": "",
-        "title": "苏摩遮五首 二",
-        "preface": "",
-        "paragraphs": [
-            "绣装帕额宝花冠，夷歌骑舞借人看。",
-            "自能激水成阴气，不虑今年寒不寒。"
-        ],
-        "notes": "",
-        "id": "812a6e5b2ff780a061885fe81da1a740"
-    },
-    {
-        "author": "张说",
-        "dynasty": "唐",
-        "type": "诗",
-        "rhythmic": "",
-        "title": "苏摩遮五首 三",
-        "preface": "",
-        "paragraphs": [
-            "腊月凝阴积帝台，豪歌急鼓送寒来。",
-            "油囊取得天河水，将添上寿万年杯。"
-        ],
-        "notes": "",
-        "id": "9abc007dcebaf58359253844f8d67f0e"
-    },
-    {
-        "author": "张说",
-        "dynasty": "唐",
-        "type": "诗",
-        "rhythmic": "",
-        "title": "苏摩遮五首 四",
-        "preface": "",
-        "paragraphs": [
-            "寒气宜人最可怜，故将寒水散庭前。",
-            "惟愿圣君无限寿，长取新年续旧年。"
-        ],
-        "notes": "",
-        "id": "d5c6a4e6a3fbbfab5dbcff2c4fffff7b"
-    },
-    {
-        "author": "张说",
-        "dynasty": "唐",
-        "type": "诗",
-        "rhythmic": "",
-        "title": "苏摩遮五首 五",
-        "preface": "",
-        "paragraphs": [
-            "昭成皇后帝家亲，荣乐诸人不比伦。",
-            "往日霜前花委地，今年雪后树逢春。"
-        ],
-        "notes": "",
-        "id": "da97139b2e56a5f732c443966fc8118f"
     },
     {
         "author": "张说",
@@ -6171,20 +5957,6 @@
         "dynasty": "唐",
         "type": "诗",
         "rhythmic": "",
-        "title": "舞马词 一",
-        "preface": "",
-        "paragraphs": [
-            "万玉朝宗凤扆，千金率领龙媒。",
-            "眄鼓凝骄蹀躞，听歌弄影徘徊。"
-        ],
-        "notes": "",
-        "id": "15515e97e4ee17e82ee536de749e8481"
-    },
-    {
-        "author": "张说",
-        "dynasty": "唐",
-        "type": "诗",
-        "rhythmic": "",
         "title": "舞马词 二",
         "preface": "",
         "paragraphs": [
@@ -6199,20 +5971,6 @@
         "dynasty": "唐",
         "type": "诗",
         "rhythmic": "",
-        "title": "舞马词 三",
-        "preface": "",
-        "paragraphs": [
-            "彩旄八佾成行，时龙五色因方。",
-            "屈膝衔杯赴节，倾心献寿无疆。"
-        ],
-        "notes": "",
-        "id": "578e0e6ae0a4dbcb122684025449e240"
-    },
-    {
-        "author": "张说",
-        "dynasty": "唐",
-        "type": "诗",
-        "rhythmic": "",
         "title": "舞马词 四",
         "preface": "",
         "paragraphs": [
@@ -6221,34 +5979,6 @@
         ],
         "notes": "",
         "id": "7024816a0da8e12550fa33ea0a61aa3b"
-    },
-    {
-        "author": "张说",
-        "dynasty": "唐",
-        "type": "诗",
-        "rhythmic": "",
-        "title": "舞马词 五",
-        "preface": "",
-        "paragraphs": [
-            "二圣先天合德，群灵率土可封。",
-            "击石骖驔紫燕，𪭢金顾步苍龙。"
-        ],
-        "notes": "",
-        "id": "4444326dfdefc912d7212a35fa2d7f6a"
-    },
-    {
-        "author": "张说",
-        "dynasty": "唐",
-        "type": "诗",
-        "rhythmic": "",
-        "title": "舞马词 六",
-        "preface": "",
-        "paragraphs": [
-            "圣君出震应箓，神马浮河献图。",
-            "足蹋天庭鼓舞，心将帝乐踟蹰。"
-        ],
-        "notes": "",
-        "id": "5cae6ce60918c172e1821d2a5c32c501"
     },
     {
         "author": "张说",

@@ -2,9 +2,9 @@
     {
         "author": "伊用昌",
         "dynasty": "唐",
-        "type": "诗",
+        "type": "词",
         "rhythmic": "",
-        "title": "望江南词咏鼓",
+        "title": "望江南 咏鼓",
         "preface": "",
         "paragraphs": [
             "江南鼓，梭肚两头栾。",
@@ -88,19 +88,5 @@
         ],
         "notes": "",
         "id": "65e031ff26dd6742024397c35743a37d"
-    },
-    {
-        "author": "伊用昌",
-        "dynasty": "唐",
-        "type": "诗",
-        "rhythmic": "",
-        "title": "忆江南",
-        "preface": "",
-        "paragraphs": [
-            "江南鼓，梭肚两头栾。",
-            "钉著不知侵骨髓，打来只是没心肝，空腹被人谩。"
-        ],
-        "notes": "",
-        "id": "5791c19083788043b1f2acdc48815583"
     }
 ]
