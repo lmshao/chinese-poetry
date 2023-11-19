@@ -26,7 +26,7 @@
             "为底胡姬酒，长来白鼻䯄。",
             "摘莲抛水上，郎意在浮花。"
         ],
-        "notes": "",
+        "notes": "又作姚合诗",
         "id": "212866247161b92e119e4520730723fd"
     },
     {
@@ -226,7 +226,7 @@
         "preface": "",
         "paragraphs": [
             "拔蒲来，领郎镜湖边。",
-            "郎心在何处？莫趂新莲去。",
+            "郎心在何处，莫趁新莲去。",
             "拔得无心蒲，问郎看好无。"
         ],
         "notes": "",
@@ -669,20 +669,6 @@
         "dynasty": "唐",
         "type": "诗",
         "rhythmic": "",
-        "title": "团扇郎",
-        "preface": "",
-        "paragraphs": [
-            "白团扇，今来此去捐。",
-            "愿得入郎手，团圆郎眼前。"
-        ],
-        "notes": "",
-        "id": "2fd062183132b51727cbf5c94e7aadc7"
-    },
-    {
-        "author": "张祜",
-        "dynasty": "唐",
-        "type": "诗",
-        "rhythmic": "",
         "title": "西江行",
         "preface": "",
         "paragraphs": [
@@ -743,55 +729,6 @@
         "dynasty": "唐",
         "type": "诗",
         "rhythmic": "",
-        "title": "拔蒲歌",
-        "preface": "",
-        "paragraphs": [
-            "拔蒲来，领郎镜湖边。",
-            "郎心在何处，莫趁新莲去。",
-            "拔得无心蒲，问郎看好无。"
-        ],
-        "notes": "",
-        "id": "98cfad84b5c6e3e8d9635887a71d573a"
-    },
-    {
-        "author": "张祜",
-        "dynasty": "唐",
-        "type": "诗",
-        "rhythmic": "",
-        "title": "车遥遥",
-        "preface": "",
-        "paragraphs": [
-            "东方昽昽车轧轧，地色不分新去辙。",
-            "闺门半掩窗半空，斑斑枕花残泪红。",
-            "君心若车千万转，妾身如辙遗渐远。",
-            "碧川迢迢山宛宛，马蹄在耳轮在眼。",
-            "桑间女儿情不浅，莫道野蚕能作茧。"
-        ],
-        "notes": "",
-        "id": "5e0f040994548a4b4148197ac3fdb0f9"
-    },
-    {
-        "author": "张祜",
-        "dynasty": "唐",
-        "type": "诗",
-        "rhythmic": "",
-        "title": "捉搦歌",
-        "preface": "",
-        "paragraphs": [
-            "门上关，墙上棘。",
-            "窗中女子声唧唧，洛阳大道徒自直。",
-            "女子心在婆舍侧，呜呜笼鸟触四隅。",
-            "养男男娶妇，养女女嫁夫。",
-            "阿婆六十翁七十，不知女子长日泣，从他嫁去无悒悒。"
-        ],
-        "notes": "",
-        "id": "2d39140a30961e888af60fe55dff3ff2"
-    },
-    {
-        "author": "张祜",
-        "dynasty": "唐",
-        "type": "诗",
-        "rhythmic": "",
         "title": "鴈门太守行",
         "preface": "",
         "paragraphs": [
@@ -808,22 +745,6 @@
         "dynasty": "唐",
         "type": "诗",
         "rhythmic": "",
-        "title": "思归引",
-        "preface": "",
-        "paragraphs": [
-            "重重作闺清旦𫔎，两耳深声长不彻。",
-            "深宫坐愁百年身，一片玉中生愤血。",
-            "焦桐弹罢丝自绝，漠漠暗魂愁夜月。",
-            "故乡不归谁共穴，石上作蒲蒲九节。"
-        ],
-        "notes": "",
-        "id": "50b48caf89b742e16dc70c0f01730648"
-    },
-    {
-        "author": "张祜",
-        "dynasty": "唐",
-        "type": "诗",
-        "rhythmic": "",
         "title": "司马相如琴歌",
         "preface": "",
         "paragraphs": [
@@ -832,23 +753,6 @@
         ],
         "notes": "",
         "id": "fe5b3d209d32da8f46cfd05676ca0264"
-    },
-    {
-        "author": "张祜",
-        "dynasty": "唐",
-        "type": "诗",
-        "rhythmic": "",
-        "title": "雉朝飞操",
-        "preface": "",
-        "paragraphs": [
-            "朝阳陇东泛暖景，双啄双飞双顾影。",
-            "朱冠锦襦聊日整，漠漠雾中如衣褧。",
-            "伤心卢女弦，七十老翁长独眠。",
-            "雄飞在草雌在田，衷肠结愤气呵天。",
-            "圣人在上心不偏，翁得女妻甚可怜。"
-        ],
-        "notes": "",
-        "id": "6a05956ab66fe6da7afe4d951f92ab1d"
     },
     {
         "author": "张祜",
@@ -3301,22 +3205,6 @@
         "dynasty": "唐",
         "type": "诗",
         "rhythmic": "",
-        "title": "从军行",
-        "preface": "",
-        "paragraphs": [
-            "少年金紫就光辉，直指边城虎翼飞。",
-            "一卷旌收千骑虏，万全身出百重围。",
-            "黄云断塞寻鹰去，白草连天射鴈归。",
-            "白首汉廷刀笔吏，丈夫功业本相依。"
-        ],
-        "notes": "",
-        "id": "790ab4c9d429db9f4b75312ce792223e"
-    },
-    {
-        "author": "张祜",
-        "dynasty": "唐",
-        "type": "诗",
-        "rhythmic": "",
         "title": "爱妾换马 一",
         "preface": "",
         "paragraphs": [
@@ -3792,24 +3680,6 @@
         "dynasty": "唐",
         "type": "诗",
         "rhythmic": "",
-        "title": "少年乐",
-        "preface": "",
-        "paragraphs": [
-            "二十便封侯，名居第一流。",
-            "绿鬟深小院，清管下高楼。",
-            "醉把金船掷，闲敲玉镫游。",
-            "带盘红鼹鼠，袍砑紫犀牛。",
-            "锦袋归调箭，罗鞋起拨毬。",
-            "眼前长贵盛，那信世间愁。"
-        ],
-        "notes": "",
-        "id": "355c0a41d2d7667fd08e34e8a3269b51"
-    },
-    {
-        "author": "张祜",
-        "dynasty": "唐",
-        "type": "诗",
-        "rhythmic": "",
         "title": "华清宫和杜舍人",
         "preface": "",
         "paragraphs": [
@@ -3950,20 +3820,6 @@
         "dynasty": "唐",
         "type": "诗",
         "rhythmic": "",
-        "title": "白鼻䯄",
-        "preface": "",
-        "paragraphs": [
-            "为底胡姬酒，长来白鼻䯄。",
-            "摘莲抛水上，郎意在浮花。"
-        ],
-        "notes": "",
-        "id": "212866247161b92e119e4520730723fd"
-    },
-    {
-        "author": "张祜",
-        "dynasty": "唐",
-        "type": "诗",
-        "rhythmic": "",
         "title": "戎浑",
         "preface": "",
         "paragraphs": [
@@ -4020,34 +3876,6 @@
         "dynasty": "唐",
         "type": "诗",
         "rhythmic": "",
-        "title": "昭君怨二首 一",
-        "preface": "",
-        "paragraphs": [
-            "万里边城远，千山行路难。",
-            "举头唯见日，何处是长安。"
-        ],
-        "notes": "",
-        "id": "2eb1ca73643bdceccc980c259e888fff"
-    },
-    {
-        "author": "张祜",
-        "dynasty": "唐",
-        "type": "诗",
-        "rhythmic": "",
-        "title": "昭君怨二首 二",
-        "preface": "",
-        "paragraphs": [
-            "汉庭无大议，戎虏几先和。",
-            "莫羡倾城色，昭君恨最多。"
-        ],
-        "notes": "",
-        "id": "975d12dcdeefac1a8c8205920714ce92"
-    },
-    {
-        "author": "张祜",
-        "dynasty": "唐",
-        "type": "诗",
-        "rhythmic": "",
         "title": "夕次竟陵",
         "preface": "",
         "paragraphs": [
@@ -4076,62 +3904,6 @@
         "dynasty": "唐",
         "type": "诗",
         "rhythmic": "",
-        "title": "苏小小歌三首 一",
-        "preface": "",
-        "paragraphs": [
-            "车轮不可遮，马足不可绊。",
-            "长怨十字街，使郎心四散。"
-        ],
-        "notes": "",
-        "id": "f118dfca96ef3e7ceb567299a7e46c91"
-    },
-    {
-        "author": "张祜",
-        "dynasty": "唐",
-        "type": "诗",
-        "rhythmic": "",
-        "title": "苏小小歌三首 二",
-        "preface": "",
-        "paragraphs": [
-            "新人千里去，故人千里来。",
-            "剪刀横眼底，方觉泪难裁。"
-        ],
-        "notes": "",
-        "id": "4a56d0997b095243774f3b2aea258c92"
-    },
-    {
-        "author": "张祜",
-        "dynasty": "唐",
-        "type": "诗",
-        "rhythmic": "",
-        "title": "苏小小歌三首 三",
-        "preface": "",
-        "paragraphs": [
-            "登山不愁峻，涉海不愁深。",
-            "中擘庭前枣，教郎见赤心。"
-        ],
-        "notes": "",
-        "id": "11701b1ed35cd3c8562c0137f8e59cb7"
-    },
-    {
-        "author": "张祜",
-        "dynasty": "唐",
-        "type": "诗",
-        "rhythmic": "",
-        "title": "树中草",
-        "preface": "",
-        "paragraphs": [
-            "青青树中草，托根非不危。",
-            "草生树却死，荣枯君可知。"
-        ],
-        "notes": "",
-        "id": "03b834a17c09f4ab6fff3639739cc008"
-    },
-    {
-        "author": "张祜",
-        "dynasty": "唐",
-        "type": "诗",
-        "rhythmic": "",
         "title": "七里濑渔家",
         "preface": "",
         "paragraphs": [
@@ -4140,132 +3912,6 @@
         ],
         "notes": "",
         "id": "74a704b215224ff522b36e2a4eb2191e"
-    },
-    {
-        "author": "张祜",
-        "dynasty": "唐",
-        "type": "诗",
-        "rhythmic": "",
-        "title": "读曲歌五首 一",
-        "preface": "",
-        "paragraphs": [
-            "窗中独自起，帘外独自行。",
-            "愁见蜘蛛织，寻思直到明。"
-        ],
-        "notes": "",
-        "id": "7d7c2ef7efe9dd375b6c63cf19cb889e"
-    },
-    {
-        "author": "张祜",
-        "dynasty": "唐",
-        "type": "诗",
-        "rhythmic": "",
-        "title": "读曲歌五首 二",
-        "preface": "",
-        "paragraphs": [
-            "碓上米不舂，窗中丝罢络。",
-            "看渠驾去车，定是无四角。"
-        ],
-        "notes": "",
-        "id": "b85ad83b0dffd458f1d6fe068325920c"
-    },
-    {
-        "author": "张祜",
-        "dynasty": "唐",
-        "type": "诗",
-        "rhythmic": "",
-        "title": "读曲歌五首 三",
-        "preface": "",
-        "paragraphs": [
-            "不见心相许，徒云脚漫勤。",
-            "摘荷空摘叶，是底采莲人。"
-        ],
-        "notes": "",
-        "id": "44e8a2557a4c688b1df3dc692f425468"
-    },
-    {
-        "author": "张祜",
-        "dynasty": "唐",
-        "type": "诗",
-        "rhythmic": "",
-        "title": "读曲歌五首 四",
-        "preface": "",
-        "paragraphs": [
-            "窗外山魈立，知渠脚不多。",
-            "三更机底下，摸著是谁梭。"
-        ],
-        "notes": "",
-        "id": "2595901b8ab5df3072cb915524937e4e"
-    },
-    {
-        "author": "张祜",
-        "dynasty": "唐",
-        "type": "诗",
-        "rhythmic": "",
-        "title": "读曲歌五首 五",
-        "preface": "",
-        "paragraphs": [
-            "郎去摘黄瓜，郎来收赤枣。",
-            "郎耕种麻地，今作西舍道。"
-        ],
-        "notes": "",
-        "id": "a3a8884243fde3c4b1b841ba265cffaa"
-    },
-    {
-        "author": "张祜",
-        "dynasty": "唐",
-        "type": "诗",
-        "rhythmic": "",
-        "title": "玉树后庭花",
-        "preface": "",
-        "paragraphs": [
-            "轻车何草草，独唱后庭花。",
-            "玉座谁为主，徒悲张丽华。"
-        ],
-        "notes": "",
-        "id": "08770cb39d2ccd4ab07cec54d5383932"
-    },
-    {
-        "author": "张祜",
-        "dynasty": "唐",
-        "type": "诗",
-        "rhythmic": "",
-        "title": "莫愁乐",
-        "preface": "",
-        "paragraphs": [
-            "侬居石城下，郎到石城游。",
-            "自郎石城出，长在石城头。"
-        ],
-        "notes": "",
-        "id": "8a019aef2940120f6db5c0bd34a3fa90"
-    },
-    {
-        "author": "张祜",
-        "dynasty": "唐",
-        "type": "诗",
-        "rhythmic": "",
-        "title": "襄阳乐",
-        "preface": "",
-        "paragraphs": [
-            "大堤花月夜，长江春水流。",
-            "东风正上信，春夜特来游。"
-        ],
-        "notes": "",
-        "id": "ba105efd25d2e3f1dc155060f51315de"
-    },
-    {
-        "author": "张祜",
-        "dynasty": "唐",
-        "type": "诗",
-        "rhythmic": "",
-        "title": "自君之出矣",
-        "preface": "",
-        "paragraphs": [
-            "自君之出矣，万物看成古。",
-            "千寻葶苈枝，争奈长长苦。"
-        ],
-        "notes": "",
-        "id": "8dd0a125a589a253b5cd1b5c973648df"
     },
     {
         "author": "张祜",
@@ -4524,20 +4170,6 @@
         "dynasty": "唐",
         "type": "诗",
         "rhythmic": "",
-        "title": "上巳乐",
-        "preface": "",
-        "paragraphs": [
-            "猩猩血彩系头标，天上齐声举画桡。",
-            "却是内人争意切，六宫红袖一时招。"
-        ],
-        "notes": "",
-        "id": "9c8b90a05eb5ed11c62a58b3dba24934"
-    },
-    {
-        "author": "张祜",
-        "dynasty": "唐",
-        "type": "诗",
-        "rhythmic": "",
         "title": "千秋乐",
         "preface": "",
         "paragraphs": [
@@ -4546,48 +4178,6 @@
         ],
         "notes": "",
         "id": "d52bf46e42794522e485d609e448df2b"
-    },
-    {
-        "author": "张祜",
-        "dynasty": "唐",
-        "type": "诗",
-        "rhythmic": "",
-        "title": "春莺啭",
-        "preface": "",
-        "paragraphs": [
-            "兴庆池南柳未开，太真先把一枝梅。",
-            "内人已唱春莺啭，花下傞傞软舞来。"
-        ],
-        "notes": "",
-        "id": "bf53a455df540324b4d6775df74b30b6"
-    },
-    {
-        "author": "张祜",
-        "dynasty": "唐",
-        "type": "诗",
-        "rhythmic": "",
-        "title": "大酺乐二首 一",
-        "preface": "",
-        "paragraphs": [
-            "车架东来值太平，大酺三日洛阳城。",
-            "小儿一伎竿头绝，天下传呼万岁声。"
-        ],
-        "notes": "",
-        "id": "af1ebba0e83c92ef49daf75947bd6387"
-    },
-    {
-        "author": "张祜",
-        "dynasty": "唐",
-        "type": "诗",
-        "rhythmic": "",
-        "title": "大酺乐二首 二",
-        "preface": "",
-        "paragraphs": [
-            "紫陌酺归日欲斜，红尘开路薛王家。",
-            "双鬟笑说楼前鼓，两仗争轮好落花。"
-        ],
-        "notes": "",
-        "id": "ad70b914929d6f6046bef93be78a1cac"
     },
     {
         "author": "张祜",
@@ -4860,34 +4450,6 @@
         "dynasty": "唐",
         "type": "诗",
         "rhythmic": "",
-        "title": "折杨柳枝二首 一",
-        "preface": "",
-        "paragraphs": [
-            "莫折宫前杨柳枝，玄宗曾向笛中吹。",
-            "伤心日暮烟霞起，无限春愁生翠眉。"
-        ],
-        "notes": "",
-        "id": "ae358070b166d16fd3aa30ca347c62ad"
-    },
-    {
-        "author": "张祜",
-        "dynasty": "唐",
-        "type": "诗",
-        "rhythmic": "",
-        "title": "折杨柳枝二首 二",
-        "preface": "",
-        "paragraphs": [
-            "凝碧池边敛翠眉，景阳楼下绾青丝。",
-            "那胜妃子朝元阁，玉手和烟弄一枝。"
-        ],
-        "notes": "",
-        "id": "3746df8d9b5600d71a47e10a58fbd319"
-    },
-    {
-        "author": "张祜",
-        "dynasty": "唐",
-        "type": "诗",
-        "rhythmic": "",
         "title": "华清宫四首 一",
         "preface": "",
         "paragraphs": [
@@ -4966,20 +4528,6 @@
         ],
         "notes": "",
         "id": "7b3bf84adb120aea7e68584c84c0f438"
-    },
-    {
-        "author": "张祜",
-        "dynasty": "唐",
-        "type": "诗",
-        "rhythmic": "",
-        "title": "长门怨",
-        "preface": "",
-        "paragraphs": [
-            "日映宫墙柳色寒，笙歌遥指碧云端。",
-            "珠铅滴尽无心语，强把花枝冷笑看。"
-        ],
-        "notes": "",
-        "id": "4f683b648ff729ecb5414c01c3cb2246"
     },
     {
         "author": "张祜",
@@ -5434,20 +4982,6 @@
         "dynasty": "唐",
         "type": "诗",
         "rhythmic": "",
-        "title": "李夫人词",
-        "preface": "",
-        "paragraphs": [
-            "延年不语望三星，莫说夫人上涕零。",
-            "争奈世间惆怅在，甘泉宫夜看图形。"
-        ],
-        "notes": "",
-        "id": "8f591991a121c3db38742fa846b8d66c"
-    },
-    {
-        "author": "张祜",
-        "dynasty": "唐",
-        "type": "诗",
-        "rhythmic": "",
         "title": "题金陵渡",
         "preface": "",
         "paragraphs": [
@@ -5566,7 +5100,7 @@
             "忽闻射猎出军城，人著戎衣马带缨。",
             "倒把角弓呈一箭，满川狐兔当头行。"
         ],
-        "notes": "",
+        "notes": "又名《戏颜郎官骑猎诗》",
         "id": "d96b5f653723f99f794910386078577a"
     },
     {
@@ -5596,20 +5130,6 @@
         ],
         "notes": "",
         "id": "52015c69ba89b269a4485781174a95f5"
-    },
-    {
-        "author": "张祜",
-        "dynasty": "唐",
-        "type": "诗",
-        "rhythmic": "",
-        "title": "热戏乐",
-        "preface": "",
-        "paragraphs": [
-            "热戏争心剧火烧，铜槌暗热不相饶。",
-            "上皇失喜宁王笑，百尺幢竿果动摇。"
-        ],
-        "notes": "",
-        "id": "e1758c7096bb9a34d70beb9bf601d0fb"
     },
     {
         "author": "张祜",
@@ -6035,20 +5555,6 @@
         ],
         "notes": "",
         "id": "3225f40a7b78f56825185dc1170366ef"
-    },
-    {
-        "author": "张祜",
-        "dynasty": "唐",
-        "type": "诗",
-        "rhythmic": "",
-        "title": "戏颜郎官骑猎诗",
-        "preface": "",
-        "paragraphs": [
-            "忽闻射猎出军城，人著戎衣马带缨。",
-            "倒把角弓呈一箭，满山狐兔当头行。"
-        ],
-        "notes": "",
-        "id": "d96b5f653723f99f794910386078577a"
     },
     {
         "author": "张祜",
@@ -7336,15 +6842,13 @@
         "title": "题赠崔权处士",
         "preface": "",
         "paragraphs": [
-            "（按此诗亦见《永乐大典》卷一三四五〇「二寘」「士」字「处士」条。",
-            "〖十四函一百三十七册〗。",
-            "）读尽儒书鬓皓然，身游城市（《大典》作「下」）意林泉。",
+            "读尽儒书鬓皓然，身游城市意林泉。",
             "已因骏马成三迳，犹恨胡麻欠一廛。",
             "真玉比来曾不磷，直钩从此更谁怜？",
             "遗民莫恨无高躅，陶令而今亦甚贤。"
         ],
         "notes": "",
-        "id": "e2af7e4a7bed3a5ce0e2c8034678ee8a"
+        "id": "7886bb23e9f704468dda23f323e2d06e"
     },
     {
         "author": "张祜",
@@ -7354,14 +6858,13 @@
         "title": "酬余姚郑摸（《大典》作「模」）明府见赠长句四韵",
         "preface": "",
         "paragraphs": [
-            "（按此诗亦见《永乐大典》卷一一〇〇〇「六姥」「府」字「明府」条。",
-            "〖十一函一百十册〗）仙令东来值胜游，人间稀遇一扁舟。",
+            "仙令东来值胜游，人间稀遇一扁舟。",
             "万重山色军江徼，十里溪声到县楼。",
             "吏隐不妨彭泽远，公才多谢武城优。",
             "生疎莫笑沧浪叟，白首直竿是直钩。"
         ],
         "notes": "",
-        "id": "e2af7e4a7bed3a5ce0e2c8034678ee8a"
+        "id": "bdcdab48dd850e3a831f205109fd8d3f"
     },
     {
         "author": "张祜",

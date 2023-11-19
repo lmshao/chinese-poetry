@@ -46,48 +46,6 @@
         "dynasty": "唐",
         "type": "诗",
         "rhythmic": "",
-        "title": "昭君怨三首 一",
-        "preface": "",
-        "paragraphs": [
-            "汉道方全盛，朝廷足武臣。",
-            "何须薄命妾，辛苦事和亲。"
-        ],
-        "notes": "",
-        "id": "c73a3ca5c13977de2f187f520a409682"
-    },
-    {
-        "author": "东方虬",
-        "dynasty": "唐",
-        "type": "诗",
-        "rhythmic": "",
-        "title": "昭君怨三首 二",
-        "preface": "",
-        "paragraphs": [
-            "揜泪辞丹凤，衔悲向白龙。",
-            "单于浪惊喜，无复旧时容。"
-        ],
-        "notes": "",
-        "id": "607c6c12329bdddbc2da4cfd23af4fbd"
-    },
-    {
-        "author": "东方虬",
-        "dynasty": "唐",
-        "type": "诗",
-        "rhythmic": "",
-        "title": "昭君怨三首 三",
-        "preface": "",
-        "paragraphs": [
-            "胡地无花草，春来不似春。",
-            "自然衣带缓，非是为腰身。"
-        ],
-        "notes": "",
-        "id": "a97ad7b1cddcc562abc256380211f6c8"
-    },
-    {
-        "author": "东方虬",
-        "dynasty": "唐",
-        "type": "诗",
-        "rhythmic": "",
         "title": "春雪",
         "preface": "",
         "paragraphs": [
@@ -102,13 +60,11 @@
         "dynasty": "唐",
         "type": "诗",
         "rhythmic": "",
-        "title": "昭君怨（其三。斯五五五）",
+        "title": "昭君怨",
         "preface": "",
         "paragraphs": [
             "万里胡风急，三秋[□]汉初。",
-            "唯望南去雁，不肯为传书。",
-            "（按这诗的其一、其二、其四三首已载《全唐诗》，故仅补「其三」一首。",
-            "）。"
+            "唯望南去雁，不肯为传书。"
         ],
         "notes": "",
         "id": "eca80c8ccbb1212188cb94e924f344b5"

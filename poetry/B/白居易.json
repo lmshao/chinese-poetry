@@ -56,7 +56,8 @@
         "title": "相和歌辞 王昭君二首 二",
         "preface": "",
         "paragraphs": [
-            "汉使却回凭寄语，黄金何日赎蛾眉？君王若问妾颜色，莫道不如宫里时。"
+            "汉使却回凭寄语，黄金何日赎蛾眉。",
+            "君王若问妾颜色，莫道不知宫里时。"
         ],
         "notes": "",
         "id": "0082cba9a1129cd8dca26de1a642e072"
@@ -126,7 +127,7 @@
             "岂能泥尘下，区区酬怨憎。",
             "胡为作自苦，吞悲仍抚膺。"
         ],
-        "notes": "",
+        "notes": "又名《反鲍明远白头吟》",
         "id": "65939be347ad7d304af890b193d38771"
     },
     {
@@ -331,7 +332,7 @@
         "dynasty": "唐",
         "type": "诗",
         "rhythmic": "",
-        "title": "杂曲歌辞 急[乐世]",
+        "title": "杂曲歌辞 急乐世辞",
         "preface": "",
         "paragraphs": [
             "正抽碧线绣红罗，忽听黄莺敛翠蛾。",
@@ -435,7 +436,7 @@
             "一树衰残委泥土，双枝荣耀植天庭。",
             "定知玄象今春后，柳宿光中添两星。"
         ],
-        "notes": "",
+        "notes": "又名《诏取永丰柳植禁苑感赋》",
         "id": "b60fed27fdf5faf7308cbb027766ead6"
     },
     {
@@ -670,10 +671,11 @@
         "title": "杂曲歌辞 忆江南 一",
         "preface": "",
         "paragraphs": [
-            "江南好，风景旧曾谙。"
+            "江南好，风景旧曾谙。",
+            "日出江花红胜火，春来江水绿如蓝，能不忆江南。"
         ],
         "notes": "",
-        "id": "fc0a2fb84baaff11826fa61110b69b1d"
+        "id": "89a051b80e8a27d414317b3d9f35aa87"
     },
     {
         "author": "白居易",
@@ -683,10 +685,11 @@
         "title": "杂曲歌辞 忆江南 二",
         "preface": "",
         "paragraphs": [
-            "江南忆，最忆是杭州。"
+            "江南忆，最忆是杭州。",
+            "山寺月中寻桂子，郡亭枕上看潮头，何日更重游。"
         ],
         "notes": "",
-        "id": "f8b187aba5577e9454aa320e526852dc"
+        "id": "48d7ab97f326c6b0140e51702f26ba99"
     },
     {
         "author": "白居易",
@@ -3605,28 +3608,6 @@
         ],
         "notes": "",
         "id": "483c236dc9a379e19f0f20923a1318bb"
-    },
-    {
-        "author": "白居易",
-        "dynasty": "唐",
-        "type": "诗",
-        "rhythmic": "",
-        "title": "反鲍明远白头吟",
-        "preface": "",
-        "paragraphs": [
-            "炎炎者烈火，营营者小蝇。",
-            "火不热贞玉，蝇不点清冰。",
-            "此苟无所受，彼莫能相仍。",
-            "乃知物性中，各有能不能。",
-            "古称怨恨死，则人有所惩。",
-            "惩淫或应可，在道未为弘。",
-            "譬如蜩鷃徒，啾啾啅龙鹏。",
-            "宜当委之去，寥廓高飞腾。",
-            "岂能泥尘下，区区酬怨憎。",
-            "胡为坐自苦，吞悲仍抚膺。"
-        ],
-        "notes": "",
-        "id": "65939be347ad7d304af890b193d38771"
     },
     {
         "author": "白居易",
@@ -13081,26 +13062,6 @@
         "dynasty": "唐",
         "type": "诗",
         "rhythmic": "",
-        "title": "短歌行",
-        "preface": "",
-        "paragraphs": [
-            "曈曈太阳如火色，上行千里下一刻。",
-            "出为白昼入为夜，圆转如珠住不得。",
-            "住不得，可奈何，为君举酒歌短歌。",
-            "歌声苦，词亦苦，四座少年君听取。",
-            "今夕未竟明夕催，秋风才往春风回。",
-            "人无根蔕时不驻，朱颜白日相隳颓。",
-            "劝君且强笑一面，劝君且强饮一杯。",
-            "人生不得长欢乐，年少须臾老到来。"
-        ],
-        "notes": "",
-        "id": "f18e483b02cc1d4516b04eb4ab260d6a"
-    },
-    {
-        "author": "白居易",
-        "dynasty": "唐",
-        "type": "诗",
-        "rhythmic": "",
         "title": "生离别",
         "preface": "",
         "paragraphs": [
@@ -13115,29 +13076,6 @@
         ],
         "notes": "",
         "id": "8b6acf3f7ac3399494ad66e8cf0f9cfb"
-    },
-    {
-        "author": "白居易",
-        "dynasty": "唐",
-        "type": "诗",
-        "rhythmic": "",
-        "title": "浩歌行",
-        "preface": "",
-        "paragraphs": [
-            "天长地久无终毕，昨夜今朝又明日。",
-            "鬓发苍浪牙齿疎，不觉身年四十七。",
-            "前去五十有几年，把镜照面心茫然。",
-            "既无长绳系白日，又无大药驻朱颜。",
-            "朱颜日渐不如故，青史功名在何处？",
-            "欲留年少待富贵，富贵不来年少去。",
-            "去复去兮如长河，东流赴海无回波。",
-            "贤愚贵贱同归尽，北邙冢墓高嵯峨。",
-            "古来如此非独我，未死有酒且高歌。",
-            "颜回短命伯夷饿，我今所得亦已多。",
-            "功名富贵须待命，命若不来知奈何。"
-        ],
-        "notes": "",
-        "id": "4fc1b80d6173565ea75932233044856a"
     },
     {
         "author": "白居易",
@@ -13326,26 +13264,6 @@
         ],
         "notes": "",
         "id": "146a7c8711ec042372bed76c1506b56b"
-    },
-    {
-        "author": "白居易",
-        "dynasty": "唐",
-        "type": "诗",
-        "rhythmic": "",
-        "title": "挽歌词",
-        "preface": "",
-        "paragraphs": [
-            "丹旐何飞扬，素骖亦悲鸣。",
-            "晨光照闾巷，輀车俨欲行。",
-            "萧条九月天，哀挽出重城。",
-            "借问送者谁，妻子与弟兄。",
-            "苍苍上古原，峨峨开新茔。",
-            "含酸一恸哭，异口同哀声。",
-            "旧陇转芜绝，新坟日罗列。",
-            "春风草绿北邙山，此地年年生死别。"
-        ],
-        "notes": "",
-        "id": "35f019a1f8bb323b9bff5e2b9875d0bd"
     },
     {
         "author": "白居易",
@@ -13601,37 +13519,6 @@
         ],
         "notes": "",
         "id": "b62b259560dd25549e184c583fb9db82"
-    },
-    {
-        "author": "白居易",
-        "dynasty": "唐",
-        "type": "诗",
-        "rhythmic": "",
-        "title": "长安道",
-        "preface": "",
-        "paragraphs": [
-            "花枝缺处青楼开，艳歌一曲酒一杯。",
-            "美人劝我急行乐，自古朱颜不再来。",
-            "君不见外州客，长安道，一回来，一回老。"
-        ],
-        "notes": "",
-        "id": "7cfb0d944a13b5135078302b6c6f27ec"
-    },
-    {
-        "author": "白居易",
-        "dynasty": "唐",
-        "type": "诗",
-        "rhythmic": "",
-        "title": "潜别离",
-        "preface": "",
-        "paragraphs": [
-            "不得哭，潜别离，不得语，暗相思。",
-            "两心之外无人知，深笼夜鏁独栖鸟。",
-            "利劒春断连理枝，河水虽浊有清日。",
-            "乌头虽黑有白时，唯有潜离与暗别。"
-        ],
-        "notes": "",
-        "id": "4fb338f67a2a3cc465930325e4b5c398"
     },
     {
         "author": "白居易",
@@ -16946,34 +16833,6 @@
         "dynasty": "唐",
         "type": "诗",
         "rhythmic": "",
-        "title": "王昭君二首 一",
-        "preface": "",
-        "paragraphs": [
-            "满面胡沙满鬓风，眉销残黛脸销红。",
-            "愁苦辛勤顦顇尽，如今却似画图中。"
-        ],
-        "notes": "",
-        "id": "1d961559ab1fde1aa0a322034f895fb8"
-    },
-    {
-        "author": "白居易",
-        "dynasty": "唐",
-        "type": "诗",
-        "rhythmic": "",
-        "title": "王昭君二首 二",
-        "preface": "",
-        "paragraphs": [
-            "汉使却回凭寄语，黄金何日赎蛾眉。",
-            "君王若问妾颜色，莫道不知宫里时。"
-        ],
-        "notes": "",
-        "id": "0082cba9a1129cd8dca26de1a642e072"
-    },
-    {
-        "author": "白居易",
-        "dynasty": "唐",
-        "type": "诗",
-        "rhythmic": "",
         "title": "渭村退居寄礼部崔侍郎翰林钱舍人诗一百韵",
         "preface": "",
         "paragraphs": [
@@ -20176,22 +20035,6 @@
         "dynasty": "唐",
         "type": "诗",
         "rhythmic": "",
-        "title": "昭君怨",
-        "preface": "",
-        "paragraphs": [
-            "明妃风貌最娉婷，合在椒房应四星。",
-            "只得当年备宫掖，何曾专夜奉帏屏。",
-            "见疎从道迷图画，知屈那教配虏庭。",
-            "自是君恩薄如纸，不须一向恨丹青。"
-        ],
-        "notes": "",
-        "id": "bea311e4b3155f2f0a68be5712e23de3"
-    },
-    {
-        "author": "白居易",
-        "dynasty": "唐",
-        "type": "诗",
-        "rhythmic": "",
         "title": "闲吟",
         "preface": "",
         "paragraphs": [
@@ -21029,7 +20872,8 @@
         "paragraphs": [
             "采石江边李白坟，遶田无限草连云。",
             "可怜荒垅穷泉骨，曾有惊天动地文。",
-            "但是诗人多薄命，就中沦落不过君。"
+            "但是诗人多薄命，就中沦落不过君。",
+            "渚苹溪草犹堪荐，大雅遗风不可闻。"
         ],
         "notes": "",
         "id": "0e4ae1044723ef94af49f3ae639f274f"
@@ -22512,62 +22356,6 @@
         "dynasty": "唐",
         "type": "诗",
         "rhythmic": "",
-        "title": "竹枝词四首 一",
-        "preface": "",
-        "paragraphs": [
-            "瞿唐峡口水烟低，白帝城头月向西。",
-            "唱到竹枝声咽处，寒猨暗鸟一时啼。"
-        ],
-        "notes": "",
-        "id": "0fdf0a07fe0008c0e98dc8c01bf80dbc"
-    },
-    {
-        "author": "白居易",
-        "dynasty": "唐",
-        "type": "诗",
-        "rhythmic": "",
-        "title": "竹枝词四首 二",
-        "preface": "",
-        "paragraphs": [
-            "竹枝苦怨怨何人，夜静山空歇又闻。",
-            "蛮儿巴女齐声唱，愁杀江楼病使君。"
-        ],
-        "notes": "",
-        "id": "0b71b773a41fffe0617b71b71199f471"
-    },
-    {
-        "author": "白居易",
-        "dynasty": "唐",
-        "type": "诗",
-        "rhythmic": "",
-        "title": "竹枝词四首 三",
-        "preface": "",
-        "paragraphs": [
-            "巴东船舫上巴西，波面风生雨脚齐。",
-            "水蓼冷花红簇簇，江蓠湿叶碧凄凄。"
-        ],
-        "notes": "",
-        "id": "f308be3f8c44ccfc23999c99ad7b435e"
-    },
-    {
-        "author": "白居易",
-        "dynasty": "唐",
-        "type": "诗",
-        "rhythmic": "",
-        "title": "竹枝词四首 四",
-        "preface": "",
-        "paragraphs": [
-            "江畔谁人唱竹枝，前声断咽后声迟。",
-            "怪来调苦缘词苦，多是通州司马诗。"
-        ],
-        "notes": "",
-        "id": "39c75f30879fdfbf9dde77715a7f99f5"
-    },
-    {
-        "author": "白居易",
-        "dynasty": "唐",
-        "type": "诗",
-        "rhythmic": "",
         "title": "酬严中丞晚眺黔江见寄",
         "preface": "",
         "paragraphs": [
@@ -23138,104 +22926,6 @@
         ],
         "notes": "",
         "id": "ef8617266560fe3168bb4e42f5e1f9af"
-    },
-    {
-        "author": "白居易",
-        "dynasty": "唐",
-        "type": "诗",
-        "rhythmic": "",
-        "title": "太平乐词二首 一",
-        "preface": "",
-        "paragraphs": [
-            "岁丰仍节俭，时泰更销兵。",
-            "圣念长如此，何忧不太平。"
-        ],
-        "notes": "",
-        "id": "18dc9fd3d59bf5d0525e740e3f3dc414"
-    },
-    {
-        "author": "白居易",
-        "dynasty": "唐",
-        "type": "诗",
-        "rhythmic": "",
-        "title": "太平乐词二首 二",
-        "preface": "",
-        "paragraphs": [
-            "湛露浮尧酒，薰风起舜歌。",
-            "愿同尧舜意，所乐在人和。"
-        ],
-        "notes": "",
-        "id": "c041682e40e5950721d19ab6f4c1bb47"
-    },
-    {
-        "author": "白居易",
-        "dynasty": "唐",
-        "type": "诗",
-        "rhythmic": "",
-        "title": "小曲新词二首 一",
-        "preface": "",
-        "paragraphs": [
-            "霁色鲜宫殿，秋声脆管弦。",
-            "圣明千岁乐，岁岁似今年。"
-        ],
-        "notes": "",
-        "id": "0bb02173058b36c17940d4277e4a6652"
-    },
-    {
-        "author": "白居易",
-        "dynasty": "唐",
-        "type": "诗",
-        "rhythmic": "",
-        "title": "小曲新词二首 二",
-        "preface": "",
-        "paragraphs": [
-            "红裾明月夜，碧簟早秋时。",
-            "好向昭阳宿，天凉玉漏迟。"
-        ],
-        "notes": "",
-        "id": "f36f50cdf7a84fc3c39e81857698c890"
-    },
-    {
-        "author": "白居易",
-        "dynasty": "唐",
-        "type": "诗",
-        "rhythmic": "",
-        "title": "闺怨词三首 一",
-        "preface": "",
-        "paragraphs": [
-            "朝憎莺百啭，夜妒燕双栖。",
-            "不惯经春别，谁知到晓啼。"
-        ],
-        "notes": "",
-        "id": "90d3f733e8d1ad10db0e2a529b116af0"
-    },
-    {
-        "author": "白居易",
-        "dynasty": "唐",
-        "type": "诗",
-        "rhythmic": "",
-        "title": "闺怨词三首 二",
-        "preface": "",
-        "paragraphs": [
-            "珠箔笼寒月，纱窗背晓灯。",
-            "夜来巾上泪，一半是春冰。"
-        ],
-        "notes": "",
-        "id": "eb2bcb955b64d8c6d74c2b4759e05bb9"
-    },
-    {
-        "author": "白居易",
-        "dynasty": "唐",
-        "type": "诗",
-        "rhythmic": "",
-        "title": "闺怨词三首 三",
-        "preface": "",
-        "paragraphs": [
-            "关山征戍远，闺阁别离难。",
-            "苦战应顦顇，寒衣不要宽。"
-        ],
-        "notes": "",
-        "id": "bb9f105a1284ae8eea20d4bff9815d65"
     },
     {
         "author": "白居易",
@@ -24800,20 +24490,6 @@
         "dynasty": "唐",
         "type": "诗",
         "rhythmic": "",
-        "title": "怨词",
-        "preface": "",
-        "paragraphs": [
-            "夺宠心那惯，寻思倚殿门。",
-            "不知移旧爱，何处作新恩。"
-        ],
-        "notes": "",
-        "id": "6cb86d6f9b34b8a200571f0b967dfc76"
-    },
-    {
-        "author": "白居易",
-        "dynasty": "唐",
-        "type": "诗",
-        "rhythmic": "",
         "title": "空闺怨",
         "preface": "",
         "paragraphs": [
@@ -24836,20 +24512,6 @@
         ],
         "notes": "",
         "id": "b5dee154e2a0857231fb4f47efd5ac89"
-    },
-    {
-        "author": "白居易",
-        "dynasty": "唐",
-        "type": "诗",
-        "rhythmic": "",
-        "title": "采莲曲",
-        "preface": "",
-        "paragraphs": [
-            "菱叶萦波荷飐风，荷花深处小船通。",
-            "逢郎欲语低头笑，碧玉搔头落水中。"
-        ],
-        "notes": "",
-        "id": "5fa9b9fe553b7f56e50281c510d7faeb"
     },
     {
         "author": "白居易",
@@ -29668,20 +29330,6 @@
         "dynasty": "唐",
         "type": "诗",
         "rhythmic": "",
-        "title": "急乐世辞",
-        "preface": "",
-        "paragraphs": [
-            "正抽碧线绣红罗，忽听黄莺歛翠蛾。",
-            "秋思冬愁春怅望，大都不称意时多。"
-        ],
-        "notes": "",
-        "id": "2ddb14cecdfb4b61bb4007f49a9f8c59"
-    },
-    {
-        "author": "白居易",
-        "dynasty": "唐",
-        "type": "诗",
-        "rhythmic": "",
         "title": "天竺寺送坚上人归庐山",
         "preface": "",
         "paragraphs": [
@@ -34113,22 +33761,6 @@
         ],
         "notes": "",
         "id": "ad31ae924483767bf4412d347c90827e"
-    },
-    {
-        "author": "白居易",
-        "dynasty": "唐",
-        "type": "诗",
-        "rhythmic": "",
-        "title": "乌夜啼",
-        "preface": "",
-        "paragraphs": [
-            "城上归时晚，庭前宿处危。",
-            "月明无叶树，霜滑有风枝。",
-            "啼涩饥喉咽，飞低冻翅垂。",
-            "画堂鹦鹉鸟，冷暖不相知。"
-        ],
-        "notes": "",
-        "id": "79ae36b0ac234710cff4c9a11cfaa04a"
     },
     {
         "author": "白居易",
@@ -41915,118 +41547,6 @@
         "dynasty": "唐",
         "type": "诗",
         "rhythmic": "",
-        "title": "杨柳枝词八首 一",
-        "preface": "",
-        "paragraphs": [
-            "六么水调家家唱，白雪梅花处处吹。",
-            "古歌旧曲君休听，听取新翻杨柳枝。"
-        ],
-        "notes": "",
-        "id": "d0dfb9a2277c9b1ff82e7088f171499a"
-    },
-    {
-        "author": "白居易",
-        "dynasty": "唐",
-        "type": "诗",
-        "rhythmic": "",
-        "title": "杨柳枝词八首 二",
-        "preface": "",
-        "paragraphs": [
-            "陶令门前四五树，亚夫营里百千条。",
-            "何似东都正二月，黄金枝映洛阳桥。"
-        ],
-        "notes": "",
-        "id": "c2bdcebdf438a6a6e40d9beff8da4045"
-    },
-    {
-        "author": "白居易",
-        "dynasty": "唐",
-        "type": "诗",
-        "rhythmic": "",
-        "title": "杨柳枝词八首 三",
-        "preface": "",
-        "paragraphs": [
-            "依依褭褭复青青，句引春风无限情。",
-            "白雪花繁空扑地，绿丝条弱不胜莺。"
-        ],
-        "notes": "",
-        "id": "3a5acebbbad992aa0ac81adf78a2d279"
-    },
-    {
-        "author": "白居易",
-        "dynasty": "唐",
-        "type": "诗",
-        "rhythmic": "",
-        "title": "杨柳枝词八首 四",
-        "preface": "",
-        "paragraphs": [
-            "红板江桥青酒旗，馆娃宫暖日斜时。",
-            "可怜雨歇东风定，万树千条各自垂。"
-        ],
-        "notes": "",
-        "id": "f74237876ce0d000629122bcca41f2ff"
-    },
-    {
-        "author": "白居易",
-        "dynasty": "唐",
-        "type": "诗",
-        "rhythmic": "",
-        "title": "杨柳枝词八首 五",
-        "preface": "",
-        "paragraphs": [
-            "苏州杨柳任君夸，更有钱唐胜馆娃。",
-            "若解多情寻小小，绿杨深处是苏家。"
-        ],
-        "notes": "",
-        "id": "bb0b98592445032226f3cc27f42b4787"
-    },
-    {
-        "author": "白居易",
-        "dynasty": "唐",
-        "type": "诗",
-        "rhythmic": "",
-        "title": "杨柳枝词八首 六",
-        "preface": "",
-        "paragraphs": [
-            "苏家小女旧知名，杨柳风前别有情。",
-            "剥条盘作银环样，卷叶吹为玉笛声。"
-        ],
-        "notes": "",
-        "id": "1fdf191190292b4fa177308caa90c504"
-    },
-    {
-        "author": "白居易",
-        "dynasty": "唐",
-        "type": "诗",
-        "rhythmic": "",
-        "title": "杨柳枝词八首 七",
-        "preface": "",
-        "paragraphs": [
-            "叶含浓露如啼眼，枝褭轻风似舞腰。",
-            "小树不禁攀折苦，乞君留取两三条。"
-        ],
-        "notes": "",
-        "id": "7ba6c189fd2ebb2ebb84f7ad222ad13b"
-    },
-    {
-        "author": "白居易",
-        "dynasty": "唐",
-        "type": "诗",
-        "rhythmic": "",
-        "title": "杨柳枝词八首 八",
-        "preface": "",
-        "paragraphs": [
-            "人言柳叶似愁眉，更有愁肠似柳丝。",
-            "柳丝挽断肠牵断，彼此应无续得期。"
-        ],
-        "notes": "",
-        "id": "0efc82755e895b68e89eee0652790777"
-    },
-    {
-        "author": "白居易",
-        "dynasty": "唐",
-        "type": "诗",
-        "rhythmic": "",
         "title": "读老子",
         "preface": "",
         "paragraphs": [
@@ -46122,45 +45642,6 @@
         "dynasty": "唐",
         "type": "诗",
         "rhythmic": "",
-        "title": "忆江南词三首 一",
-        "preface": "",
-        "paragraphs": [
-            "江南好，风景旧曾谙。"
-        ],
-        "notes": "",
-        "id": "fc0a2fb84baaff11826fa61110b69b1d"
-    },
-    {
-        "author": "白居易",
-        "dynasty": "唐",
-        "type": "诗",
-        "rhythmic": "",
-        "title": "忆江南词三首 二",
-        "preface": "",
-        "paragraphs": [
-            "江南忆，最忆是杭州。"
-        ],
-        "notes": "",
-        "id": "f8b187aba5577e9454aa320e526852dc"
-    },
-    {
-        "author": "白居易",
-        "dynasty": "唐",
-        "type": "诗",
-        "rhythmic": "",
-        "title": "忆江南词三首 三",
-        "preface": "",
-        "paragraphs": [
-            "江南忆，其次忆吴宫。"
-        ],
-        "notes": "",
-        "id": "4666960c403c842a15e864718759cfb2"
-    },
-    {
-        "author": "白居易",
-        "dynasty": "唐",
-        "type": "诗",
-        "rhythmic": "",
         "title": "病中诗十五首 初病风",
         "preface": "",
         "paragraphs": [
@@ -47616,34 +47097,6 @@
         ],
         "notes": "",
         "id": "f93a4a740c9389bffc481542b8e353d8"
-    },
-    {
-        "author": "白居易",
-        "dynasty": "唐",
-        "type": "诗",
-        "rhythmic": "",
-        "title": "听歌六绝句 何满子",
-        "preface": "",
-        "paragraphs": [
-            "世传满子是人名，临就刑时曲始成。",
-            "一曲四调歌八叠，从头便是断肠声。"
-        ],
-        "notes": "",
-        "id": "e3eca54c47599924f7fe8152b27b4931"
-    },
-    {
-        "author": "白居易",
-        "dynasty": "唐",
-        "type": "诗",
-        "rhythmic": "",
-        "title": "听歌六绝句 离别难",
-        "preface": "",
-        "paragraphs": [
-            "绿杨陌上送行人，马去车回一望尘。",
-            "不觉别时红泪尽，归来无泪可沾巾。"
-        ],
-        "notes": "",
-        "id": "8a5cc9bb37772cf5d0d358ebe36aa0ec"
     },
     {
         "author": "白居易",
@@ -49726,20 +49179,6 @@
         "dynasty": "唐",
         "type": "诗",
         "rhythmic": "",
-        "title": "诏取永丰柳植禁苑感赋",
-        "preface": "",
-        "paragraphs": [
-            "一树衰残委泥土，双枝荣耀植天庭。",
-            "定知玄象今春后，柳宿光中添两星。"
-        ],
-        "notes": "",
-        "id": "b60fed27fdf5faf7308cbb027766ead6"
-    },
-    {
-        "author": "白居易",
-        "dynasty": "唐",
-        "type": "诗",
-        "rhythmic": "",
         "title": "斋居春久感事遣怀",
         "preface": "",
         "paragraphs": [
@@ -51738,62 +51177,6 @@
         "dynasty": "唐",
         "type": "诗",
         "rhythmic": "",
-        "title": "花非花",
-        "preface": "",
-        "paragraphs": [
-            "花非花，雾非雾，夜半来，天明去。",
-            "来如春梦不多时，去似朝云无觅处。"
-        ],
-        "notes": "",
-        "id": "23b0bdae6a6b0a7acb65c4e466134c61"
-    },
-    {
-        "author": "白居易",
-        "dynasty": "唐",
-        "type": "诗",
-        "rhythmic": "",
-        "title": "忆江南 一",
-        "preface": "",
-        "paragraphs": [
-            "江南好，风景旧曾谙。",
-            "日出江花红胜火，春来江水绿如蓝，能不忆江南。"
-        ],
-        "notes": "",
-        "id": "89a051b80e8a27d414317b3d9f35aa87"
-    },
-    {
-        "author": "白居易",
-        "dynasty": "唐",
-        "type": "诗",
-        "rhythmic": "",
-        "title": "忆江南 二",
-        "preface": "",
-        "paragraphs": [
-            "江南忆，最忆是杭州。",
-            "山寺月中寻桂子，郡亭枕上看潮头，何日更重游。"
-        ],
-        "notes": "",
-        "id": "48d7ab97f326c6b0140e51702f26ba99"
-    },
-    {
-        "author": "白居易",
-        "dynasty": "唐",
-        "type": "诗",
-        "rhythmic": "",
-        "title": "忆江南 三",
-        "preface": "",
-        "paragraphs": [
-            "江南忆，其次忆吴宫。",
-            "吴酒一杯春竹叶，吴娃双舞醉芙蓉，早晚得相逢。"
-        ],
-        "notes": "",
-        "id": "3dba8cf8f644665ad9286e692f5712e3"
-    },
-    {
-        "author": "白居易",
-        "dynasty": "唐",
-        "type": "诗",
-        "rhythmic": "",
         "title": "如梦令 一",
         "preface": "",
         "paragraphs": [
@@ -52303,25 +51686,6 @@
         ],
         "notes": "",
         "id": "9ff74f438c5e8a8bd97495750e8e246b"
-    },
-    {
-        "author": "白居易",
-        "dynasty": "唐",
-        "type": "诗",
-        "rhythmic": "",
-        "title": "采石墓",
-        "preface": "",
-        "paragraphs": [
-            "采石江边李白坟，遶田无限草连云。",
-            "可怜荒垅泉骨，曾有惊天动地文。",
-            "但是诗人多薄命，就中沦落不过君。",
-            "渚苹溪草犹堪荐，大雅遗风不可闻。",
-            "（见《采石志》，转录自《李白在安徽》）（按：《全唐诗》卷四四〇收本诗，缺末二句，今重录。",
-            "今人或谓末二句系人伪托。",
-            "）。"
-        ],
-        "notes": "",
-        "id": "0e4ae1044723ef94af49f3ae639f274f"
     },
     {
         "author": "白居易",

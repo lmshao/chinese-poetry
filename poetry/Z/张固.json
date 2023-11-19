@@ -1,19 +1,6 @@
 [
     {
         "author": "张固",
-        "dynasty": "宋",
-        "type": "诗",
-        "rhythmic": "",
-        "title": "句",
-        "preface": "",
-        "paragraphs": [
-            "鹿石晓寒云漠漠，虎溪春浅水潺潺。"
-        ],
-        "notes": "",
-        "id": "3f6a3b77501c4ff55d0e1c2aabd225c3"
-    },
-    {
-        "author": "张固",
         "dynasty": "唐",
         "type": "诗",
         "rhythmic": "",
@@ -64,10 +51,9 @@
         "title": "东林寺",
         "preface": "",
         "paragraphs": [
-            "鹿石晓寒云漠漠，虎溪春浅水潺潺。",
-            "（见《舆地纪胜》卷三十《江州》）。"
+            "鹿石晓寒云漠漠，虎溪春浅水潺潺。"
         ],
-        "notes": "",
+        "notes": "见《舆地纪胜》卷三十《江州》。",
         "id": "3f6a3b77501c4ff55d0e1c2aabd225c3"
     }
 ]
