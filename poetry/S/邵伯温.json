@@ -293,5 +293,34 @@
         ],
         "notes": "",
         "id": "c6629fe43d3366bef061f36af9883cb5"
+    },
+    {
+        "author": "邵伯温",
+        "dynasty": "宋",
+        "type": "词",
+        "rhythmic": "望江南・忆江南",
+        "title": "",
+        "preface": "",
+        "paragraphs": [
+            "百尺长藤垂到地，千株乔木密参天。",
+            "只在郡城边。"
+        ],
+        "notes": "",
+        "id": "efe9475cdce6724ae2a79aa736253cd2"
+    },
+    {
+        "author": "邵伯温",
+        "dynasty": "宋",
+        "type": "词",
+        "rhythmic": "调笑・调笑令",
+        "title": "",
+        "preface": "",
+        "paragraphs": [
+            "翻翻绣袖上红茵。",
+            "舞姬犹是旧精神。",
+            "坐中莫怪无欢意，我与将军是故人。"
+        ],
+        "notes": "",
+        "id": "180b99357e5c6d1eb2ac3fe9ddbdc951"
     }
 ]
